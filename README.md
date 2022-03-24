@@ -1,4 +1,4 @@
-# Password Generator Project
+# Django3 Password Generator Project
 Password Generator | Python | Django | HTML
 
 
